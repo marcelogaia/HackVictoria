@@ -1,20 +1,20 @@
 # #HackVictoria2016
 
-    Job board focused in jobs for people with some kind of disabilities and jobs which that disability wouldn't stop them to do well in the job.
+Job board focused in jobs for people with some kind of disabilities and jobs which that disability wouldn't stop them to do well in the job.
 ### Group members:
-    - ##### Marcelo Gaia:
+    - Marcelo Gaia:
         - PHP programmer for a few years
         - 1st/2nd year CSC student
-    - ##### Khaled Gabr
+    - Khaled Gabr
         - Some (3+ months) HTML / CSS experience
         - 2nd year CSC student
 
 ### Project:
-    - ##### Technology:
+    - Technology:
         - PHP / Codeigniter 2 Framework
         - Webflow front-end
         - Mysql
-    - ##### Trials:
+    - Trials:
         - Python
         - Sqlalquemy
         - Flash
