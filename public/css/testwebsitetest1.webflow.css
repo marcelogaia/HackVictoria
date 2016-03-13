@@ -141,6 +141,10 @@ p {
   color: #2980b9;
 }
 
+.nav-link.personname {
+  padding-left: 11px;
+}
+
 .section {
   padding-top: 70px;
   padding-bottom: 70px;
@@ -747,6 +751,90 @@ p {
   border-radius: 2px;
   background-color: transparent;
   font-weight: 500;
+}
+
+.sing-in-section {
+  background-color: #e7e8ec;
+}
+
+.sign-in-box {
+  display: block;
+  width: 300px;
+  margin: 50px auto;
+  padding: 35px 25px 15px;
+  background-color: #fff;
+  box-shadow: 4px 4px 15px 0 rgba(0, 0, 0, .3);
+}
+
+.sign-in-word {
+  margin-bottom: 10px;
+  color: #489fd9;
+  line-height: 38px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.little-message {
+  margin-bottom: 29px;
+  color: #666;
+  text-align: center;
+}
+
+.sign-in-button {
+  width: 100%;
+  margin-top: 11px;
+}
+
+.sign-in-button:hover {
+  background-color: rgba(72, 159, 217, .9);
+}
+
+.form-label {
+  margin-top: 20px;
+  color: #444;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.profile-pic {
+  display: inline-block;
+  margin-top: 15px;
+  margin-right: 0px;
+  margin-left: 20px;
+}
+
+.personal {
+  display: inline-block;
+}
+
+.person-name {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.drop-down {
+  position: relative;
+}
+
+.test2 {
+  padding-top: 0px;
+}
+
+.arrow {
+  margin-top: 4px;
+}
+
+.list.w--open {
+  margin-top: -13px;
+  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, .2);
+}
+
+.indi-list {
+  background-color: #f3f5f7;
+}
+
+.indi-list:hover {
+  background-color: rgba(243, 245, 247, .7);
 }
 
 html.w-mod-js *[data-ix="fade-in-on-load"] {
