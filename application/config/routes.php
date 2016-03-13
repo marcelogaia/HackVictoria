@@ -38,8 +38,12 @@
 |
 */
 
-$route['default_controller'] = "profile";
+$route['default_controller'] = "home";
 $route['404_override'] = '';
+
+$route['profiles'] = 'profile';
+$route['sign-in'] = 'login';
+$route['sign-up'] = 'login/signup';
 
 
 /* End of file routes.php */

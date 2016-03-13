@@ -42,6 +42,7 @@
 	            foreach($result as &$r){
 	            	$this->db->select('*');
 	            	$this->db->from('experience');
+	            	$this->db->limit(1);
 	            	$this->db->where(array('user_id' => $r->id));
 	            	$r->experience = $this->db->get()->result();
 
