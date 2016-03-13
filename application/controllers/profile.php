@@ -5,6 +5,9 @@ class Profile extends CI_Controller {
     function __construct() {
         parent::__construct();
         $this->load->model("User_model");
+        $this->load->model("Skill_model");
+        $this->load->model("Experience_model");
+        $this->load->model("Education_model");
     }
 
     function index() {

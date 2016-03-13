@@ -24,6 +24,7 @@
 	    public function get($where = NULL) {
 	        $this->db->select('*');
 	        $this->db->from(self::TABLE_NAME);
+
 	        if ($where !== NULL) {
 	            if (is_array($where)) {
 	                foreach ($where as $field=>$value) {
@@ -33,8 +34,31 @@
 	                $this->db->where(self::PRI_INDEX, $where);
 	            }
 	        }
+
 	        $result = $this->db->get()->result();
+
 	        if ($result) {
+
+	            foreach($result as &$r){
+	            	$this->db->select('*');
+	            	$this->db->from('experience');
+	            	$this->db->where(array('user_id' => $r->id));
+	            	$r->experience = $this->db->get()->result();
+
+	            	$this->db->select('*');
+	            	$this->db->from('skill');
+	            	$this->db->join('skill_user','skill.id = skill_user.skill_id');
+	            	$this->db->where(array('user_id' => $r->id));
+	            	$r->skill = $this->db->get()->result();
+
+	            	$this->db->select('*');
+	            	$this->db->from('education');
+	            	$this->db->where(array('user_id' => $r->id));
+	            	$r->education = $this->db->get()->result();
+
+	            	$r->location = $this->db->get_where('location',array('id'=>$r->location_id))->result()[0];
+	            }
+
 	            if ($where !== NULL) {
 	                return array_shift($result);
 	            } else {
@@ -88,4 +112,3 @@
 	        return $this->db->affected_rows();
 	    }
 	}
-	        ?>

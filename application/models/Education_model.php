@@ -1,11 +1,11 @@
-<?if (!defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class Skill_model extends CI_Model {
+class Education_model extends CI_Model {
 
     /**
      * @name string TABLE_NAME Holds the name of the table in use by this model
      */
-    const TABLE_NAME = 'skill';
+    const TABLE_NAME = 'education';
 
     /**
      * @name string PRI_INDEX Holds the name of the tables' primary index used in this model
