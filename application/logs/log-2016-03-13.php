@@ -2245,3 +2245,212 @@ DEBUG - 2016-03-13 19:48:13 --> File loaded: application/views/footer.php
 DEBUG - 2016-03-13 19:48:13 --> File loaded: application/views/profiles.php
 DEBUG - 2016-03-13 19:48:13 --> Final output sent to browser
 DEBUG - 2016-03-13 19:48:13 --> Total execution time: 0.0185
+DEBUG - 2016-03-13 20:10:36 --> Config Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:10:36 --> URI Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Router Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 20:10:36 --> Output Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Security Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Input Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:10:36 --> Language Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:10:36 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:10:36 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:10:36 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:10:36 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:10:36 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 20:10:36 --> Final output sent to browser
+DEBUG - 2016-03-13 20:10:36 --> Total execution time: 0.0632
+DEBUG - 2016-03-13 20:10:58 --> Config Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:10:58 --> URI Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Router Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 20:10:58 --> Output Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Security Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Input Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:10:58 --> Language Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:10:58 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:10:58 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:10:58 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:10:58 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:10:58 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 20:10:58 --> Final output sent to browser
+DEBUG - 2016-03-13 20:10:58 --> Total execution time: 0.0088
+DEBUG - 2016-03-13 20:11:04 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:04 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:04 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:04 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:04 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:04 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:04 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:04 --> File loaded: application/views/profiles.php
+DEBUG - 2016-03-13 20:11:04 --> Final output sent to browser
+DEBUG - 2016-03-13 20:11:04 --> Total execution time: 0.0480
+DEBUG - 2016-03-13 20:11:09 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:09 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:09 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:09 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:09 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:09 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:09 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:09 --> File loaded: application/views/signin.php
+DEBUG - 2016-03-13 20:11:09 --> Final output sent to browser
+DEBUG - 2016-03-13 20:11:09 --> Total execution time: 0.0197
+DEBUG - 2016-03-13 20:11:14 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:14 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:14 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:14 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:14 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:14 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:14 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:14 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 20:11:14 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:14 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:14 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:14 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:14 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:14 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:14 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 20:11:14 --> Final output sent to browser
+DEBUG - 2016-03-13 20:11:14 --> Total execution time: 0.0074
+DEBUG - 2016-03-13 20:11:17 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:17 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:17 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:17 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:17 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:17 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:17 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:17 --> File loaded: application/views/profiles.php
+DEBUG - 2016-03-13 20:11:17 --> Final output sent to browser
+DEBUG - 2016-03-13 20:11:17 --> Total execution time: 0.0150
+DEBUG - 2016-03-13 20:11:20 --> Config Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:11:20 --> URI Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Router Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Output Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Security Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Input Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:11:20 --> Language Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:11:20 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:11:20 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:11:20 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:11:20 --> Model Class Initialized
+DEBUG - 2016-03-13 20:11:20 --> File loaded: application/views/edit.php
+DEBUG - 2016-03-13 20:11:20 --> Final output sent to browser
+DEBUG - 2016-03-13 20:11:20 --> Total execution time: 0.0114
+DEBUG - 2016-03-13 20:15:55 --> Config Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Hooks Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 20:15:55 --> URI Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Router Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Output Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Security Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Input Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 20:15:55 --> Language Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Loader Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 20:15:55 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 20:15:55 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Controller Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Model Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> Model Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 20:15:55 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 20:15:55 --> Model Class Initialized
+DEBUG - 2016-03-13 20:15:55 --> File loaded: application/views/edit.php
+DEBUG - 2016-03-13 20:15:55 --> Final output sent to browser
+DEBUG - 2016-03-13 20:15:55 --> Total execution time: 0.1210

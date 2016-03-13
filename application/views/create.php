@@ -24,7 +24,7 @@
               </div>
             </div>
             <label for="field-3" class="form-label">Short Summary:</label>
-            <textarea id="field-3" placeholder="Enter a short description of yourself" name="summary" data-name="Field 3" class="w-input"></textarea>
+            <textarea id="field-3" placeholder="Enter a short description of yourself" name="summary" data-name="Field 3" class="w-input" rows=4></textarea>
             <h2 class="subhead">Location:</h2>
             <div class="w-row">
               <div class="w-col w-col-3">
@@ -79,7 +79,7 @@
               </div>
             </div>
             <label for="field" class="form-label">Description:</label>
-            <textarea id="field" placeholder="Enter a short description of your self" name="xp[0][description]" class="w-input"></textarea>
+            <textarea id="field" placeholder="Enter a short description of your self" name="xp[0][description]" class="w-input" rows=4></textarea>
             <h2 class="subhead">Education:</h2>
             <div class="w-row">
               <div class="w-col w-col-3">
@@ -100,10 +100,10 @@
               </div>
             </div>
             <label for="field" class="form-label">Description:</label>
-            <textarea id="field-2" placeholder="Enter a short description of your self" name="ed[0][description]" data-name="Field 2" class="w-input"></textarea>
+            <textarea id="field-2" placeholder="Enter a short description of your self" name="ed[0][description]" data-name="Field 2" class="w-input" rows=4></textarea>
             <h2 class="subhead">Disabilities:</h2>
             <label for="field-4" class="form-label">Describe what is your disabilities</label>
-            <textarea id="field-4" placeholder="Describe in few sentences your disabilities." name="description" data-name="field-4" class="w-input"></textarea>
+            <textarea id="field-4" placeholder="Describe in few sentences your disabilities." name="description" data-name="field-4" class="w-input" rows=4></textarea>
             <h2 class="subhead">Skills:</h2>
             <label for="field-4" class="form-label">Enter a list of words that describes your skills.</label>
             <textarea id="field-5" placeholder="Seperate your skills by comma, writing more skills make your resume more searchable" name="skill" data-name="Field 5" class="w-input"></textarea>

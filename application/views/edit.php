@@ -23,7 +23,7 @@
               </div>
             </div>
             <label for="field-3" class="form-label">Short Summary:</label>
-            <textarea id="field-3" placeholder="Enter a short description of yourself" name="summary" data-name="Field 3" class="w-input"><?= $user->summary ?></textarea>
+            <textarea id="field-3" placeholder="Enter a short description of yourself" name="summary" data-name="Field 3" class="w-input" rows=4><?= $user->summary ?></textarea>
             <h2 class="subhead">Location:</h2>
             <div class="w-row">
               <div class="w-col w-col-3">
@@ -80,7 +80,7 @@
             </div>
             
             <label for="field" class="form-label">Description:</label>
-            <textarea id="field" placeholder="Enter a short description of the job" name="xp[0][description]" class="w-input"><?= $xp->description; ?></textarea>
+            <textarea id="field" placeholder="Enter a short description of the job" name="xp[0][description]" class="w-input" rows=4><?= $xp->description; ?></textarea>
               
             <?php endforeach ?>
             <h2 class="subhead">Education:</h2>
@@ -106,10 +106,10 @@
             <?php endforeach ?>
             <h2 class="subhead">Disabilities:</h2>
             <label for="field-4" class="form-label">Describe what is your disabilities</label>
-            <textarea id="field-4" placeholder="Describe in few sentences your disabilities." name="description" data-name="field-4" class="w-input"><?= $user->description; ?></textarea>
+            <textarea id="field-4" placeholder="Describe in few sentences your disabilities." name="description" data-name="field-4" class="w-input" rows=4><?= $user->description; ?></textarea>
             <h2 class="subhead">Skills:</h2>
             <label for="field-4" class="form-label">Enter a list of words that describes your skills.</label>
-            <textarea id="field-5" placeholder="Seperate your skills by comma, writing more skills make your resume more searchable" name="skill" data-name="Field 5" class="w-input"><?php 
+            <textarea id="field-5" placeholder="Seperate your skills by comma, writing more skills make your resume more searchable" name="skill" data-name="Field 5" class="w-input" rows=4><?php 
               $separator = "";
               foreach($user->skill as $s){ 
                 echo $separator;
