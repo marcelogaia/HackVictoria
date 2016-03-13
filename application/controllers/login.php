@@ -23,7 +23,13 @@ class Login extends CI_Controller {
     }
 
     function signup() {
-    	$this->load->view('signup',$this->data);
+        $this->load->view('signup',$this->data);
+    }
+
+    function create() {
+        $this->data['email'] = $this->input->post('email');
+        $this->data['password'] = $this->input->post('password');
+        $this->load->view('create',$this->data);
     }
 
     function submit($operation = "signin") {
@@ -46,7 +52,7 @@ class Login extends CI_Controller {
             );
     	}
     	if($operation == "signup") {
-
+            print_r($_POST);
     	}
     }
 }

@@ -33,6 +33,7 @@
 			<nav role="navigation" class="w-nav-menu nav-menu">
 				<a href="./" class="w-nav-link nav-link">Home</a>
 				<a href="profiles" class="w-nav-link nav-link">Profiles</a>
+				<a href="#" class="w-nav-link nav-link">Jobs</a>
 				<a href="#" class="w-nav-link nav-link">Contact us</a>
 				<?php if($logged) { ?>
 				<div class="personal">

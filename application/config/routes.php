@@ -45,6 +45,8 @@ $route['profiles'] = 'profile';
 $route['sign-in'] = 'login';
 $route['sign-up'] = 'login/signup';
 
+$route['create-profile'] = 'login/create';
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
