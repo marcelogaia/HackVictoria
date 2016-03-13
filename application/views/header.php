@@ -4,7 +4,7 @@
 <html data-wf-site="5634ecbff1efd346405c7d64" data-wf-page="56e4d61fa6ebff347a3c0276">
 <head>
 	<meta charset="utf-8">
-	<title>VICTORIA</title>
+	<title>NONAME</title>
 	<base href="/HackVictoria/" />
 	<meta property="og:title" content="singleprofile">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,7 +28,7 @@
 	<div data-collapse="medium" data-animation="default" data-duration="400" data-contain="1" class="w-nav navigation">
 		<div class="w-container">
 			<a href="./" class="w-nav-brand brand-link">
-				<div class="logo-text">VICTORIA</div>
+				<div class="logo-text">NONAME . . . yet</div>
 			</a>
 			<nav role="navigation" class="w-nav-menu nav-menu">
 				<a href="./" class="w-nav-link nav-link">Home</a>

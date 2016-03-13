@@ -3,7 +3,7 @@
 			<div class="w-container">
 				<div class="w-row">
 					<div class="w-col w-col-6">
-						<div class="logo-text footer">VICTORIA</div>
+						<div class="logo-text footer">NONAME</div>
 						<div class="footer-slogan">Sign up for our newsletter</div>
 						<div class="w-form newsletter-form">
 							<form id="wf-form-newsletter" name="wf-form-newsletter" data-name="Newsletter" class="w-clearfix">

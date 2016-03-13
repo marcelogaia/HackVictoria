@@ -636,6 +636,7 @@ p {
   padding-bottom: 40px;
   float: left;
   border-bottom: 2px solid #eee;
+  width: 100%;
 }
 
 .firstpart.secondpart {
