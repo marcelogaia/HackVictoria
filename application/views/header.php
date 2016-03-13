@@ -41,16 +41,18 @@
 					</div>
 					<div data-delay="0" class="w-dropdown drop-down">
 						<div class="w-dropdown-toggle test2">
-							<div class="person-name">Smith J. William</div>
+							<div class="person-name"><?= $_SESSION['name'] ?></div>
 							<div class="w-icon-dropdown-toggle arrow"></div>
 						</div>
-						<nav class="w-dropdown-list list"><a href="http://manageprofile.php" class="w-dropdown-link indi-list">Manage Profile</a><a href="http://logout.php" class="w-dropdown-link indi-list">Logout</a>
+						<nav class="w-dropdown-list list">
+						<a href="manage-profile" class="w-dropdown-link indi-list">Manage Profile</a>
+						<a href="logout" class="w-dropdown-link indi-list">Logout</a>
 						</nav>
 					</div>
 				</div>
 				<?php } else { ?>
-				<a href="sign-in" class="w-nav-link nav-link">Sign In</a>
-				<a href="sign-up" class="w-nav-link nav-link">Sign Up</a>
+				<a href="sign-in" href="sign-in" class="w-nav-link nav-link">Sign In</a>
+				<a href="sign-up" href="sign-in" class="w-nav-link nav-link">Sign Up</a>
 				<?php } ?>
 			</nav>
 			<div class="w-nav-button nav-link menu">

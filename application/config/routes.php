@@ -44,8 +44,10 @@ $route['404_override'] = '';
 $route['profiles'] = 'profile';
 $route['sign-in'] = 'login';
 $route['sign-up'] = 'login/signup';
+$route['logout'] = 'login/logout';
 
 $route['create-profile'] = 'login/create';
+$route['manage-profile'] = 'login/edit';
 
 
 /* End of file routes.php */

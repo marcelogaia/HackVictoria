@@ -4,4 +4,14 @@
 			return substr($string, 0,$number) . ". . .";
 		}
 	}
+
+	// $url should be an absolute url
+	function rredirect($url){
+	    if (headers_sent()){
+	      die('<script type="text/javascript">window.location.href="' . $url . '";</script>');
+	    }else{
+	      header('Location: ' . $url);
+	      die();
+	    }    
+	}
 ?>

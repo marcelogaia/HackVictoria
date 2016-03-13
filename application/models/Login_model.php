@@ -89,10 +89,11 @@ class Login_model extends CI_Model {
     }
 
     public function login($email, $password) {
-    	$return = $this->get(array('email' => $email, 'password' => $password));
+        //@hackvictoria_2016_
+    	$result = $this->get(array('login.email' => $email, 'login.password' => md5("@hackvictoria_2016_" . $password)));
 
-    	if($return) {
-    		return $result[0]; 
+    	if($result) {
+    		return $result; 
     	} else return false;
     }
 }
