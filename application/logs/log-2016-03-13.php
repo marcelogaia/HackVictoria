@@ -1886,3 +1886,362 @@ DEBUG - 2016-03-13 19:38:21 --> File loaded: application/views/footer.php
 DEBUG - 2016-03-13 19:38:21 --> File loaded: application/views/signin.php
 DEBUG - 2016-03-13 19:38:21 --> Final output sent to browser
 DEBUG - 2016-03-13 19:38:21 --> Total execution time: 0.0158
+DEBUG - 2016-03-13 19:46:38 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:38 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:46:38 --> Output Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Security Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Input Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:46:38 --> Language Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:46:38 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:46:38 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:46:38 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:46:38 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:46:38 --> Final output sent to browser
+DEBUG - 2016-03-13 19:46:38 --> Total execution time: 0.0166
+DEBUG - 2016-03-13 19:46:38 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:38 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:39 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:39 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:39 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Hooks Class Initialized
+ERROR - 2016-03-13 19:46:39 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:39 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:39 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Utf8 Class Initialized
+ERROR - 2016-03-13 19:46:39 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:39 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:39 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:39 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:39 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:46:41 --> Output Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Security Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Input Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:46:41 --> Language Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:46:41 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:46:41 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:46:41 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:46:41 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:46:41 --> Final output sent to browser
+DEBUG - 2016-03-13 19:46:41 --> Total execution time: 0.0277
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:41 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:41 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+ERROR - 2016-03-13 19:46:41 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:41 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:41 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:41 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:41 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:41 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:42 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:42 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:42 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:42 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:42 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:42 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:42 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:42 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:42 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Hooks Class Initialized
+ERROR - 2016-03-13 19:46:42 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:42 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:42 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:42 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:42 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:42 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:43 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:43 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:46:43 --> Output Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Security Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Input Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:46:43 --> Language Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:46:43 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:46:43 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:46:43 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:46:43 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:46:43 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:46:43 --> Final output sent to browser
+DEBUG - 2016-03-13 19:46:43 --> Total execution time: 0.0094
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Config Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> URI Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+DEBUG - 2016-03-13 19:46:44 --> Router Class Initialized
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+ERROR - 2016-03-13 19:46:44 --> 404 Page Not Found --> images
+DEBUG - 2016-03-13 19:47:32 --> Config Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:47:32 --> URI Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Router Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:47:32 --> Output Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Security Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Input Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:47:32 --> Language Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:47:32 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:47:32 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:47:32 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:47:32 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:47:32 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:47:32 --> Final output sent to browser
+DEBUG - 2016-03-13 19:47:32 --> Total execution time: 0.0330
+DEBUG - 2016-03-13 19:48:03 --> Config Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:48:03 --> URI Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Router Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:48:03 --> Output Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Security Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Input Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:48:03 --> Language Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:48:03 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:48:03 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:48:03 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:48:03 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:48:03 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:48:03 --> Final output sent to browser
+DEBUG - 2016-03-13 19:48:03 --> Total execution time: 0.0104
+DEBUG - 2016-03-13 19:48:11 --> Config Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:48:11 --> URI Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Router Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Output Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Security Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Input Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:48:11 --> Language Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:48:11 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:48:11 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:11 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:48:11 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:48:11 --> File loaded: application/views/profiles.php
+DEBUG - 2016-03-13 19:48:11 --> Final output sent to browser
+DEBUG - 2016-03-13 19:48:11 --> Total execution time: 0.0164
+DEBUG - 2016-03-13 19:48:12 --> Config Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:48:12 --> URI Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Router Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> No URI present. Default controller set.
+DEBUG - 2016-03-13 19:48:12 --> Output Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Security Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Input Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:48:12 --> Language Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:48:12 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:48:12 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:48:12 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:48:12 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:48:12 --> File loaded: application/views/home.php
+DEBUG - 2016-03-13 19:48:12 --> Final output sent to browser
+DEBUG - 2016-03-13 19:48:12 --> Total execution time: 0.0129
+DEBUG - 2016-03-13 19:48:13 --> Config Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Hooks Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Utf8 Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> UTF-8 Support Enabled
+DEBUG - 2016-03-13 19:48:13 --> URI Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Router Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Output Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Security Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Input Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-03-13 19:48:13 --> Language Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Loader Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Helper loaded: string_helper
+DEBUG - 2016-03-13 19:48:13 --> Helper loaded: url_helper
+DEBUG - 2016-03-13 19:48:13 --> Database Driver Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Controller Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> Model Class Initialized
+DEBUG - 2016-03-13 19:48:13 --> File loaded: application/views/header.php
+DEBUG - 2016-03-13 19:48:13 --> File loaded: application/views/footer.php
+DEBUG - 2016-03-13 19:48:13 --> File loaded: application/views/profiles.php
+DEBUG - 2016-03-13 19:48:13 --> Final output sent to browser
+DEBUG - 2016-03-13 19:48:13 --> Total execution time: 0.0185

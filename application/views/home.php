@@ -1,8 +1,4 @@
 <?= $header ?>
-	<?= $header ?>
-
-
-
 	  <div class="w-section mainslider">
     <div class="w-container">
       <h1 class="mainheader">Matching employers who value diversity with talented disabled candidates<br>in Victoria, BC, Canada.</h1>
@@ -11,7 +7,7 @@
     </div>
   </div>
   <div class="w-section logo-section">
-    <div class="w-container"><img src="images/logo_Wired.svg" class="slogo"><img src="images/logo_Forbes.svg" class="slogo"><img src="images/logo_techcrunch.svg" class="slogo"><img height="40" src="images/logo_zdnet.svg" class="slogo">
+    <div class="w-container"><img src="public/images/logo_Wired.svg" class="slogo"><img src="public/images/logo_Forbes.svg" class="slogo"><img src="public/images/logo_techcrunch.svg" class="slogo"><img height="40" src="public/images/logo_zdnet.svg" class="slogo">
       <div class="textlogo">
         <div class="thinpart"><strong class="thinpart">Hack</strong><span class="boldedpart">Victoria</span>
         </div>
@@ -27,14 +23,10 @@
             <br>
             <br>Retention rates among people with disabilities are higher because they are loyal to companies that supports them. Thus reducing the training costs.</p>
         </div>
-        <div class="w-col w-col-6"><img src="images/post-1-0-55919700-1384422697_thumb.jpg" class="sideimage">
+        <div class="w-col w-col-6"><img src="public/images/post-1-0-55919700-1384422697_thumb.jpg" class="sideimage">
         </div>
       </div>
     </div>
   </div>
 	
-	
-	
-	
-<?= $footer ?>
 <?= $footer ?>
